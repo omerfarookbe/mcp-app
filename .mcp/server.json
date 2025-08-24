@@ -1,0 +1,21 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/draft/2025-07-09/server.json",
+  "description": "Omer MCP Server",
+  "name": "io.github.omerfarookbe",
+  "packages": [
+    {
+      "registry_name": "nuget",
+      "name": "OmerMCPServer",
+      "version": "1.0.0",
+      "package_arguments": [],
+      "environment_variables": []
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/omerfarookbe/mcp-app",
+    "source": "github"
+  },
+  "version_detail": {
+    "version": "1.0.0"
+  }
+}
